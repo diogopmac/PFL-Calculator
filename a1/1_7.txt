@@ -1,0 +1,10 @@
+a) True. O Haskell converte o Int em float e efetua a soma.
+b) False. Não há conversão possível entre Bool e Int.
+c)
+
+j) False. Estamos a tentar comparar coisas de natureza diferentes.
+k) False. (1 <= 2) é um Bool.
+l) True. (1 <= 2) e (3 <= 4) são Bools e Bools são do tipo Ord (Ordenáveis).
+m) True. Uso de listas correto.
+n) False. Uso de listas incorreto.
+o) True. Strings são listas.
